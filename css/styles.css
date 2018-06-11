@@ -11,22 +11,7 @@ hr{
     border: 1px solid #e7e7e749;
     width: 69%;
 }
-.anios{
-    font-size: 40px;
-}
-.panza{
-    width: 350px;
-    height: 5%;
-    background-color: #6bb2f4;
-    border: 4px solid black;
-    border-radius: 10px;
-    box-shadow: 2px 2px 10px black;
-}
-.campo{
-    font-size: 33px;
-    font-weight: bold;
-    text-align: right;
-}
+
 .Tarjeta{
     margin-top: 10px;
     height: 350px;
@@ -53,6 +38,24 @@ hr{
     width: 100%;
     height: 80%;
     background-color: #6524af;
+}
+
+.campo{
+    font-size: 33px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.anios{
+    font-size: 40px;
+}
+.panza{
+    width: 350px;
+    height: 5%;
+    background-color: #6bb2f4;
+    border: 4px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
 }
 
 .Tarjeta1{
